@@ -1,4 +1,4 @@
--- require("nwreyes")
+require("nwreyes")
 
 set = vim.opt
 
