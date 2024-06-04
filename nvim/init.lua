@@ -11,3 +11,5 @@ set.softtabstop = 2
 set.shiftwidth = 2
 
 set.guicursor = "n-v-c-i:block"
+
+set.number = true
